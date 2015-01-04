@@ -1,4 +1,4 @@
 Eqbuilds
 ========
 
-My EQ builds
+My EQ builds... Use at own risk.
